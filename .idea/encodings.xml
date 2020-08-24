@@ -3,14 +3,24 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-springboot-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-springboot-web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03-springboot-mybatis" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/04-springboot-dubbo-comsumer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/04-springboot-dubbo-privader" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-springboot-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-springboot-dubbo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-springboot-dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-springboot-dubbo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-springboot-dubbo-provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-springboot-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-springboot-java/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06-springboot-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-springboot-war/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-springboot-jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-springboot-jar/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/08-springboot-thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-springboot-thymeleaf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/10-springboot-all-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-springboot-all-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/10-springboot-all-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-springboot-all-provider/src/main/java" charset="UTF-8" />
   </component>
 </project>

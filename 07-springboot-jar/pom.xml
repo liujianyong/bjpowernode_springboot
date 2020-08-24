@@ -58,9 +58,8 @@
 
         <!--jstl标签依赖的jar包start -->
         <dependency>
-            <groupId>javax.servlet.jsp.jstl</groupId>
+            <groupId>javax.servlet</groupId>
             <artifactId>jstl</artifactId>
-            <version>1.2</version>
         </dependency>
         <!--jstl标签依赖的jar包end -->
     </dependencies>

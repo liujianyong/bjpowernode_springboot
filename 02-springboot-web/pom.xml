@@ -4,11 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
     <!--继承springboot的父级项目的依赖-->
     <parent>
-        <groupId>com.bjpowernode.springboot</groupId>
-        <artifactId>springboot</artifactId>
-        <version>1.0.0</version>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.2.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
+
     <groupId>com.bjpowernode.springboot</groupId>
     <artifactId>02-spingboot-web</artifactId>
     <version>1.0.0</version>
@@ -26,8 +28,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>2.1.6.RELEASE</version>
-            <optional>true</optional>
         </dependency>
         <!--引入Spring Boot内嵌的Tomcat对JSP的解析包-->
         <dependency>
@@ -51,9 +51,8 @@
 
         <!--jstl标签依赖的jar包start -->
         <dependency>
-            <groupId>javax.servlet.jsp.jstl</groupId>
+            <groupId>javax.servlet</groupId>
             <artifactId>jstl</artifactId>
-            <version>1.2</version>
         </dependency>
         <!--jstl标签依赖的jar包end -->
         <!--测试的起步依赖-->

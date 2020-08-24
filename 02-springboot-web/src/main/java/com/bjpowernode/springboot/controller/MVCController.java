@@ -3,13 +3,14 @@ package com.bjpowernode.springboot.controller;
 import com.bjpowernode.springboot.model.User;
 import org.springframework.web.bind.annotation.*;
 
-@RestController//@RestController=@Controller+@ResponseBody
+@RestController//@RestController=@Controller+@ResponseBody(方法级别的)
 public class MVCController {
     @RequestMapping(value = "/boot/getUser",method = RequestMethod.GET)
     public Object getUser(){
         User user = new User();
         user.setId(100);
         user.setName("张无忌");
+
         return user;
     }
 
